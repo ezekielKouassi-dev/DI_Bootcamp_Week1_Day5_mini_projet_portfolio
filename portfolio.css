@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html,h1,h2,h3,h4,h5,h6,a{
+    font-family: "Raleway";
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.img {
+    width: 400px;
+    height: 200px;
+}
+
+.wrapper {
+    background-image: url("https://wallpaperaccess.com/full/1651380.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.about-img {
+    border-radius: 50%;
+}
+
+.img-blog {
+    height: 246px;
+}
+
+.image-container {
+    border-right: 2px solid black;
+}
+
+.about-me-image-title {
+    text-align: center;
+}
